@@ -1,0 +1,16 @@
+{
+  "name": "bittystream",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "atmoner",
+  "license": "MIT",
+  "dependencies": {
+    "express": "github:visionmedia/express",
+    "node-persist": "^2.0.8",
+    "webtorrent-hybrid": "^1.0.5"
+  }
+}
