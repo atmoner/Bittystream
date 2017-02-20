@@ -1,5 +1,15 @@
 # Bittystream  
 
+Install:  
+`wget https://github.com/atmoner/Bittystream/archive/master.zip && unzip master.zip && cd Bittystream-master/ && npm install`
+
+Run:  
+`node index.js`
+
+Now you can stream your torrent on port 3000   
+`http://domain.dot:3000`
+
+
 Beta test: https://demo.bittystream.pw/  
 Remote bug please: https://github.com/atmoner/Bittystream/issues
 
