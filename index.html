@@ -149,8 +149,8 @@
     <script>
 
     $(function() { 
-		//console.log(window.location.hostname);
-        var api = 'http://localhost:3000/';
+	//console.log(window.location.hostname);
+        var api = 'http://'+window.location.hostname+':3000/';
         var refreshIntervalId = null;
         $('#stream').click(function() {
             window.infoHash = $('input').val();
