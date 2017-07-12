@@ -9,10 +9,6 @@ Run:
 Now you can stream your torrent on port 3000   
 `http://domain.dot:3000`
 
-
-Beta test: https://demo.bittystream.pw/  
-Remote bug please: https://github.com/atmoner/Bittystream/issues
-
 ![Torrent streamer](http://i.imgur.com/7ew2LPR.png)
 ![Torrent streamer](http://i.imgur.com/EaRUNwF.png)
 
